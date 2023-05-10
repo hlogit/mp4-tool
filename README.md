@@ -11,5 +11,5 @@ python .\split_mp4_tool.py "C:\  Users\  Downloads\123_nnn.mp4" -wav
 
 python .\split_mp4_tool.py "C:\  Users\  Downloads\123_nnn.wav" -txtt send 123.nnn.wav to ecognize_google
 
-python .\mp4_tool.py "C:\Users\Downloads\【科管院talk】我的人_3600.mp4"  - make a louder wav from 我的人_3600.mp4
+python .\mp4_tool.py "C:\Users\Downloads\【科管院talk】我的人_3600.mp4"  - generate a louder wav from 我的人_3600.mp4
 
