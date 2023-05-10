@@ -1,6 +1,8 @@
 # mp4-tool
 this is a mp4 tool which helps you split a mp4  file into many
+
 usage:
+
 python .\split_mp4_tool.py "C:\  Users\  Downloads\123.mp4" -sp   240 split 123.mp4 every 240 seconds
 
 python .\split_mp4_tool.py "C:\  Users\  Downloads\123.mp4" -bt 0:39:34  0:46:41 get mp4  between 0:39:34  0:46:41 from  123.mp4
